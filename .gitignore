@@ -1,0 +1,9 @@
+# .gitignore
+
+# Benutzerdefinierte Daten
+data/players.json
+
+# Allgemeine Ausschlüsse
+*.log
+*.tmp
+/.idea
